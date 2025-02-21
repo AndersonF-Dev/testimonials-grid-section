@@ -6,8 +6,12 @@ export const Usuarioconteiner = styled.div`
     align-items: center;
     gap: 20px;
     
-    margin: .5rem 1.6rem;
-    
+    margin: 2rem 1.6rem;
+    background-color: aqua;
+
+    @media (max-width: 850px){
+
+    }
 `;
 
 export const UsuarioStyles = styled.div`
