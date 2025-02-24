@@ -9,6 +9,7 @@ const Daniel = () => {
             <Depoimento 
                 imagem={imageDaniel} 
                 nome="Daniel Clifford"
+                exibirImagemBackground={true}
                 titulo="I received a job offer mid-course, and the subjects I learned were current, if not more so,
                     in the company I joined. I honestly feel I got every penny’s worth."
                 texto="“ I was an EMT for many years before I joined the bootcamp. I’ve been looking to make a
@@ -25,3 +26,10 @@ const Daniel = () => {
 };
 
 export default Daniel;
+
+
+
+
+
+
+

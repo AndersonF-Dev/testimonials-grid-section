@@ -3,10 +3,10 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  /* padding: 2rem; */
+
   text-align: center;
   font-family: "Barlow Semi Condensed", serif;
-  background-color: aqua;
+  
 
   @media (max-width: 850px){
     max-width: 95%;
@@ -15,17 +15,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-  }
-}
+  };
+};
 
-/* .conteiner{
-  background-color: aqua;
-  display: grid;
-  grid-template-columns: auto auto auto auto;
- 
-  max-width: 82%;
-  
-  grid-gap: 8px;
-
-} */
 

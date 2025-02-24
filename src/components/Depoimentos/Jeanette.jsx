@@ -9,6 +9,7 @@ const Jeanette = () => {
             <Depoimento 
                 imagem={imageJeanette} 
                 nome="Jeanette Harmon"
+                corNome="hsl(219, 29%, 14%)"
                 titulo="An overall wonderful and rewarding experience"
                 texto="“ Thank you for the wonderful experience! I now have a job I really enjoy, and make a good living 
                         while doing something I love. ”"

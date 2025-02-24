@@ -9,6 +9,7 @@ const Kira = () => {
             <Depoimento 
                 imagem={imageKira} 
                 nome="Kira Whittle"
+                corNome="hsl(219, 29%, 14%)" 
                 titulo="Such a life-changing experience. Highly recommended!"
                 texto="“ Before joining the bootcamp, I’ve never written a line of code. I needed some structure from 
                         professionals who can help me learn programming step by step. I was encouraged to enroll by a former 

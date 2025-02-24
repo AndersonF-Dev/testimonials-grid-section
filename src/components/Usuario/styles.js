@@ -7,11 +7,10 @@ export const Usuarioconteiner = styled.div`
     gap: 20px;
     
     margin: 2rem 1.6rem;
-    background-color: aqua;
 
     @media (max-width: 850px){
 
-    }
+    };
 `;
 
 export const UsuarioStyles = styled.div`
@@ -23,7 +22,7 @@ export const UsuarioStyles = styled.div`
         width: 35px;
         border-radius: 2rem; 
         border: 2px solid hsl(0, 0%, 81%); 
-    }
+    };
 
     p{
       display: flex;
@@ -32,12 +31,12 @@ export const UsuarioStyles = styled.div`
       font-weight: 600;
       font-size: 1rem;
       color: hsl(210, 46%, 95%);   
-    }
+    };
 
     span{
         color: hsl(0, 0%, 81%);
         font-weight: 500;
         font-size: .8rem; 
-    }
+    };
 `;
 
